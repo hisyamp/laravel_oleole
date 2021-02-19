@@ -64,7 +64,7 @@
                     <div class="tour_package_cotent owl-carousel">
                         @foreach($datas as $data)
                         <div class="single_tour_package">
-                            <img src="{{asset($data->gambar)}}" style="height: 380px;width: 300px; " alt="">
+                            <img src="{{asset($data->gambar)}}" style="height: 380px;width: 300px; margin: auto; " alt="">
                             <div class="tour_pack_content">
                                 <h4><a href="{{route('view.room',$data->id)}}">{{$data->nama}}</a></h4>
                                 <p> {{$data->alamat}}</p>
