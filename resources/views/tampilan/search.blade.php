@@ -31,7 +31,7 @@
             	@foreach($datas as $data)
                 <div class="col-lg-4 col-sm-6">
                     <div class="single_blog_part">
-                        <a href="{{route('view.room',$data->id)}}"><img src="{{asset($data->gambar)}}" alt=""></a>
+                        <a href="{{route('view.room',$data->id)}}"><img style="height: 330px;width: 250px;margin: auto; " src="{{asset($data->gambar)}}" alt=""></a>
                         <div class="blog_text">
                             <h2><a href="{{route('view.room',$data->id)}}">{{$data->nama}}</a></h2>
                             <p>{{$data->alamat}}</p>

@@ -32,7 +32,7 @@ class TravelTableSeeder extends Seeder
                 	'gambar' => 'qq',
                 	'deskripsi' => 'qq',
                 	'harga' => '25.000',
-                	'category_id' => '19',
+                	'category_id' => '1',
                 	'city_id' => '1',
                 ],
                 [
