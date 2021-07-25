@@ -6,25 +6,25 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>travel</title>
-    <link rel="icon" href="{{asset('../oleole/tourby/img/favicon.png')}}">
+    <link rel="icon" href="{{asset('tourby/img/favicon.png')}}">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/bootstrap.min.css')}}">
     <!-- animate CSS -->
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/animate.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/animate.css')}}">
     <!-- owl carousel CSS -->
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/owl.carousel.min.css')}}">
     <!-- font awesome CSS -->
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/all.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/all.css')}}">
     <!-- flaticon CSS -->
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/flaticon.css')}}">
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/themify-icons.css')}}">
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/nice-select.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/flaticon.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/themify-icons.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/nice-select.css')}}">
     <!-- font awesome CSS -->
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/magnific-popup.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/magnific-popup.css')}}">
     <!-- swiper CSS -->
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/slick.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/slick.css')}}">
     <!-- style CSS -->
-    <link rel="stylesheet" href="{{asset('../oleole/tourby/css/style.css')}}">
+    <link rel="stylesheet" href="{{asset('tourby/css/style.css')}}">
     
 </head>
 
