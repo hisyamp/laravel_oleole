@@ -69,7 +69,7 @@ class TravelController extends Controller
 
         $gambar->move('public/uploads/posts/',$new_gambar);
 
-        return redirect()->back()->with('success','Data berhasil ditambahkan!');
+        return redirect()->route('travel.index')->with('success','Data berhasil ditambahkan!');
     }
 
     /**

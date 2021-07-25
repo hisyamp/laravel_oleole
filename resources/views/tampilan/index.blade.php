@@ -27,7 +27,7 @@
                                 <form action="{{route('dropdown.store')}}" method="post">
                                     @csrf
                                     <div class="search_form_iner ">
-                                            <select class="form-group custom_select " name="city_id" id="inlineFormCustomSelect">
+                                            <select class="custom_select " name="city_id" id="inlineFormCustomSelect">
                                             <option selected>Kota</option>
                                             @foreach($cities as $city)
                                             <option value="{{$city->id}}">{{$city->nama}}</option>
@@ -64,7 +64,7 @@
                     <div class="tour_package_cotent owl-carousel">
                         @foreach($datas as $data)
                         <div class="single_tour_package">
-                            <img src="{{asset($data->gambar)}}" style="height: 380px;width: 300px; " alt="">
+                            <img src="{{asset($data->gambar)}}" alt="">
                             <div class="tour_pack_content">
                                 <h4><a href="{{route('view.room',$data->id)}}">{{$data->nama}}</a></h4>
                                 <p> {{$data->alamat}}</p>
