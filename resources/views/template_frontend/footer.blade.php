@@ -1,4 +1,4 @@
-<!--::footer_part start::-->
+https://oleoletravel.herokuapp.com/public/<!--::footer_part start::-->
     <footer class="footer_part">
         <div class="container">
             
@@ -29,25 +29,25 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <!-- jquery plugins here-->
     <!-- jquery -->
     
-    <script src="{{asset('tourby/js/jquery-1.12.1.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/jquery-1.12.1.min.js')}}"></script>
     <!-- popper js -->
-    <script src="{{asset('tourby/js/popper.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/popper.min.js')}}"></script>
     <!-- bootstrap js -->
-    <script src="{{asset('tourby/js/bootstrap.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/bootstrap.min.js')}}"></script>
     <!-- easing js -->
-    <script src="{{asset('tourby/js/jquery.magnific-popup.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/jquery.magnific-popup.js')}}"></script>
     <!-- particles js -->
-    <script src="{{asset('tourby/js/owl.carousel.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/owl.carousel.min.js')}}"></script>
     <script src="{{asset('public/tourby/s/jquery.nice-select.min.js')}}j"></script>
     <!-- slick js -->
-    <script src="{{asset('tourby/js/slick.min.js')}}"></script>
-    <script src="{{asset('tourby/js/jquery.counterup.min.js')}}"></script>
-    <script src="{{asset('tourby/js/waypoints.min.js')}}"></script>
-    <script src="{{asset('tourby/js/contact.js')}}"></script>
-    <script src="{{asset('tourby/js/jquery.ajaxchimp.min.js')}}"></script>
-    <script src="{{asset('tourby/js/jquery.form.js')}}"></script>
-    <script src="{{asset('tourby/js/jquery.validate.min.js')}}"></script>
-    <script src="{{asset('tourby/js/mail-script.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/slick.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/jquery.counterup.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/waypoints.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/contact.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/jquery.ajaxchimp.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/jquery.form.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/jquery.validate.min.js')}}"></script>
+    <script src="{{asset('https://oleoletravel.herokuapp.com/public/tourby/js/mail-script.js')}}"></script>
     <!-- custom js -->
     <script src="{{asset('public/tourby/js/custom.js')}}"></script>
 </body>
