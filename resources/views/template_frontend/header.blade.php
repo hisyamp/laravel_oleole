@@ -8,23 +8,23 @@
     <title>travel</title>
     <link rel="icon" href="{{asset('public/tourby/img/favicon.png')}}">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{asset('public/tourby/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/bootstrap.min.css')}}">
     <!-- animate CSS -->
-    <link rel="stylesheet" href="{{asset('public/tourby/css/animate.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/animate.css')}}">
     <!-- owl carousel CSS -->
-    <link rel="stylesheet" href="{{asset('public/tourby/css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/owl.carousel.min.css')}}">
     <!-- font awesome CSS -->
-    <link rel="stylesheet" href="{{asset('public/tourby/css/all.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/all.css')}}">
     <!-- flaticon CSS -->
-    <link rel="stylesheet" href="{{asset('public/tourby/css/flaticon.css')}}">
-    <link rel="stylesheet" href="{{asset('public/tourby/css/themify-icons.css')}}">
-    <link rel="stylesheet" href="{{asset('public/tourby/css/nice-select.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/flaticon.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/themify-icons.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/nice-select.css')}}">
     <!-- font awesome CSS -->
-    <link rel="stylesheet" href="{{asset('public/tourby/css/magnific-popup.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/magnific-popup.css')}}">
     <!-- swiper CSS -->
-    <link rel="stylesheet" href="{{asset('public/tourby/css/slick.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/slick.css')}}">
     <!-- style CSS -->
-    <link rel="stylesheet" href="{{asset('public/tourby/css/style.css')}}">
+    <link rel="stylesheet" href="{{asset('/public/tourby/css/style.css')}}">
     
 </head>
 
